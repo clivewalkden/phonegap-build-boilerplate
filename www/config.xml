@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.clivewalkden.phonegapbuildboilerplate"
+        versionCode = "1" 
+        version     = "0.0.1" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>PhoneGap Build Boilerplate</name>
+
+    <description>
+        Boilerplate for PhoneGap Build project
+    </description>
+
+    <author href="http://clivewalkden.co.uk" email="clive@clivewalkden.co.uk">
+        Clive Walkden 
+    </author>
+
+    <gap:platform name="android" />
+
+    <preference name="phonegap-version" value="3.5.0" />
+
+    <preference name="fullscreen" value="true" />
+
+</widget>
