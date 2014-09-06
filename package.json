@@ -1,0 +1,9 @@
+{
+  "name": "phonegap-build-boilerplate",
+  "version": "0.0.1",
+  "description": "A biolerplate setup for a phonegap build project",
+  "devDependencies": {
+    "ionic": "~1.1",
+    "cordova": "~3.5"
+  }
+}
