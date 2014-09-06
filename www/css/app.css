@@ -1,3 +1,8 @@
 body > div{
 	padding: 0.4em;
 }
+
+h1 {
+	color: #ff0000;
+	font-size: 1.4em;
+}
